@@ -1,11 +1,15 @@
 print("Hello world")
 # Pythonda comment
 
-
 """
-coxsetrli comment
-"""  
+coxsetrli
+ comment
+""" 
 
+info="""
+Menim adim
+Ulvidir"""
+print(info)
 print(5*3)
 print(5-3)
 print(5+3)
